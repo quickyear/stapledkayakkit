@@ -1,5 +1,15 @@
-const v = 1;
-module.exports = v;
-# local scratch
-- item one
-- item two
+# DateFormatter-ab6320
+
+A Java DateFormatter utility.
+
+## Build
+
+```bash
+mvn clean package
+```
+
+## Run
+
+```bash
+java -cp target/classes Main
+```
